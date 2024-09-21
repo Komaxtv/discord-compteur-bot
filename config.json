@@ -1,5 +1,5 @@
 {
-    "token": "TON_TOKEN_DISCORD",
-    "guild_id": "TON_ID_GUILD",
-    "channel_id": "TON_ID_CHANNEL"
+    "token": "REMPLACE CECI PAR LE TOKEN DE TON BOT DISCORD",
+    "guild_id": "REMPLACE CECI PAR L'ID DE TON SERVEUR",
+    "channel_id": "REMPLACE CECI PAR L'ID DE TON SALON"
 }
